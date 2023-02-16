@@ -1,0 +1,9 @@
+com\example\restapi\service\ProductServiceImpl.class
+com\example\restapi\controller\ProductController.class
+com\example\restapi\model\Product.class
+com\example\restapi\service\ProductService.class
+com\example\restapi\RestapiApplication.class
+com\example\restapi\repository\ProductRepository.class
+com\example\restapi\mapper\ProductMapper.class
+com\example\restapi\mapper\ProductMapperImpl.class
+com\example\restapi\dto\ProductDto.class
